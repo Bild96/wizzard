@@ -10,13 +10,13 @@
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Features](#features)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Contact](#contact)
+4. [License](#license)
 
 
+## 🤳 Screenshots <a name = "screenshots"></a>
 
-![Screen Shot 2023-10-16 at 6 34 51 PM](https://github.com/Bild96)
+![Screenshot from 2024-03-11 02-48-53](https://github.com/Bild96/wizzard/assets/52472445/40ac4036-ac36-4a26-a9e9-f50060033d6c)
+
 
 
 ## Installation
@@ -56,7 +56,7 @@ To use `wizzard`, simply search for an Ethereum address or an ENS name in the se
 
 ## License
 
-This project is licensed under the terms specified in the [LICENCE.md](LICENCE.md) file.
+This project is licensed under the terms specified in the [LICENCE.md](LICENCE.md).
 
 ## ✍️ Authors <a name = "authors"></a>
 
